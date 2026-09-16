@@ -1,3 +1,4 @@
+// Rasterizer interface: viewport size, transformation matrices, and pixel coverage buffer.
 #pragma once
 #include "raster_math.h"
 #include "vertex.h"
