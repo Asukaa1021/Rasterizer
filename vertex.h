@@ -1,3 +1,4 @@
+// Geometry data: a vertex stores position and color; a triangle contains three vertices.
 #pragma once
 #include "raster_math.h"
 #include<array>
