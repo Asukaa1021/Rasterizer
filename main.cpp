@@ -1,3 +1,4 @@
+// Demo entry point: configure the scene, draw a triangle, and display a grayscale image.
 #include <iostream>
 #include <opencv2/opencv.hpp>
 #include "raster_math.h"
