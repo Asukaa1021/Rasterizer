@@ -1,3 +1,4 @@
+// Triangle coverage: transform vertices, map to the viewport, and test pixel centers.
 #include "Rasterizer.h"
 #include "raster_math.h"
 #include "vertex.h"
