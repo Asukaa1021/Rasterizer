@@ -1,3 +1,4 @@
+// Vector and matrix math: model transforms, camera view, and perspective projection.
 #pragma once
 #include <cmath>
 
