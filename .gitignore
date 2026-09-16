@@ -1,0 +1,21 @@
+# Visual Studio local settings and cache
+.vs/
+*.user
+*.suo
+
+# Build outputs
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.tlog/
+*.log
+*.lastbuildstate
+*.idb
+*.ipch
