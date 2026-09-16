@@ -1,3 +1,4 @@
+# Keep source files in Git; exclude local IDE state and generated build outputs.
 # Visual Studio local settings and cache
 .vs/
 *.user
