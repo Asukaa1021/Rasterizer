@@ -143,13 +143,19 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="mesh.h" />
+    <ClInclude Include="mesh_simplifier.h" />
+    <ClInclude Include="obj_loader.h" />
     <ClInclude Include="Rasterizer.h" />
     <ClInclude Include="raster_math.h" />
+    <ClInclude Include="shade.h" />
     <ClInclude Include="vertex.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="mesh_simplifier.cpp" />
     <ClCompile Include="Rasterizer.cpp" />
+    <ClCompile Include="shade.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
